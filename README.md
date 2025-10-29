@@ -1,6 +1,6 @@
 # Hi, I'm Stephanie Osakwe
 
-**Entry-Level Data Analyst | Economist | Research Writer**
+ Data Analyst | Economist | Research Writer**
 
 I'm passionate about transforming data into insights that drive social, business, and economic decisions.  
 With a foundation in **Economics**, I’m building hands-on experience in **Power BI**, **Excel**, **SQL**, and **Python** — with a growing interest in data storytelling and social research.
